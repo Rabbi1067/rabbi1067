@@ -1,5 +1,4 @@
-# 👋 Hi, I’m @Rabbi1067
-
+# 👋 Hi, I’m Md Fazley Rabbi
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 Problem Solver | ML Enthusiast | Canva Designer
