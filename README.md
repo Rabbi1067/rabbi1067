@@ -1,8 +1,6 @@
 # 👋 Hi, I’m @Rabbi1067
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ## 🚀 Problem Solver | ML Enthusiast | Canva Designer
 
