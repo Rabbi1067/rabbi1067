@@ -1,6 +1,8 @@
-# 👋 Hi, I’m @Rabbi1067
+<table>
+  <tr>
+    <td>
 
-![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+# 👋 Hi, I’m @Rabbi1067
 
 ## 🚀 Problem Solver | ML Enthusiast | Canva Designer
 
@@ -10,6 +12,15 @@
 🎨 I’ve created 60+ creative designs using Canva.  
 🌱 I’m currently learning advanced algorithms, data structures, software development, and going deeper into ML.  
 💞️ I want to work on open-source projects, coding challenges, and cool tech ideas with others.
+
+    </td>
+    <td>
+
+![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+
+    </td>
+  </tr>
+</table>
 
 ---
 
