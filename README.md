@@ -15,10 +15,12 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazley-rabbi1067/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rabbi1067)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rabbi1067)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rabbi1067/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazley-rabbi1067/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rabbi1067)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rabbi1067)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rabbi1067/)  
+
+📧 **Email:** [fazlerabbicse65@gmail.com](mailto:fazlerabbicse65@gmail.com)
 
 ---
 
