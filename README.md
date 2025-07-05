@@ -13,12 +13,14 @@
 🌱 I’m currently learning advanced algorithms, data structures, software development, and going deeper into ML.  
 💞️ I want to work on open-source projects, coding challenges, and cool tech ideas with others.
 
-    </td>
-    <td>
+  </td>
+  <td>
 
-![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+<a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/VIDEO_ID/0.jpg" width="320" alt="Watch my coding video"/>
+</a>
 
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -26,9 +28,9 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazley-rabbi1067/)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rabbi1067)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rabbi1067)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazley-rabbi1067/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rabbi1067)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rabbi1067)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rabbi1067/)
 
 ---
